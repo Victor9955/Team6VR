@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lolla\\documents\\projets\\team6vr\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\team6vr\\module.team6vr.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lolla\\documents\\projets\\team6vr\\intermediate\\build\\win64\\x64\\team6vr\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lolla\\documents\\projets\\team6vr\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\team6vr\\definitions.team6vr.h",
+            "c:\\users\\lolla\\documents\\projets\\team6vr\\intermediate\\source\\team6vr.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

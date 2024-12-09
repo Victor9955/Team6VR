@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\lolla\\Documents\\Projets\\Team6VR\\Intermediate\\Source\\Team6VR.Build.cs",
+		"C:\\Users\\lolla\\Documents\\Projets\\Team6VR\\Intermediate\\Source\\Team6VR.Target.cs",
+		"C:\\Users\\lolla\\Documents\\Projets\\Team6VR\\Intermediate\\Source\\Team6VRClient.Target.cs",
+		"C:\\Users\\lolla\\Documents\\Projets\\Team6VR\\Intermediate\\Source\\Team6VREditor.Target.cs",
+		"C:\\Users\\lolla\\Documents\\Projets\\Team6VR\\Intermediate\\Source\\Team6VRServer.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
